@@ -36,12 +36,13 @@ Lagerverwaltung/
 - [CMake](https://cmake.org/) installiert
 
 ### Schritte
-
+```bash
 cd Lagerverwaltung
 mkdir build && cd build
 cmake ..
 make
 ./Lagerverwaltung  # Name des ausführbaren Programms
+```
 
 ## 👨‍🎓 Über mich
 
